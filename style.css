@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('image/j1b.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+    color: rgb(221, 27, 27);
+}
+
+
+.home-dp{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+
+.home1 {
+    background-color: rgb(31, 30, 30);
+    width: 20vw;
+    min-width: 150px;
+    height: 100vh;
+    text-align: center;
+}
+
+.home1 a {
+    color: white;
+    text-decoration: none;
+    line-height: 4;
+}
+
+
+.content-limit{
+   padding-left: 800px;
+   padding-top: 580px;
+}
+#nmae{
+    font-weight: bold;
+    font-size: large;
+}
+
+
+
+
